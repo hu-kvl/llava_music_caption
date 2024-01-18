@@ -1,0 +1,2 @@
+NOTICE
+Llama2 is licensed under the LLAMA2 Community License, Copyright (c) Meta Platforms, Inc. All Rights Reserved.
